@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @datu1210
+- 👋 Hi, I’m @daveTurizo
 - 👀 I’m interested in web Desing/ Data Analisys
 - 🌱 I’m currently learning Full Stack Desing
 
